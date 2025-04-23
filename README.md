@@ -23,7 +23,7 @@ Herramienta en Python para detectar y validar dinámicamente patrones de expresi
 1. Clona o descarga este repositorio:
    ```bash
    git clone https://github.com/vegeta008/redos-_detector.git
-   cd redos-detector
+   cd redos-_detector
    ```
 2. Asegúrate de tener Python 3 instalado:
    ```bash
