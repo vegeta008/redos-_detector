@@ -62,14 +62,3 @@ Cada línea muestra:
 - **Threshold**: Puedes cambiar el umbral de 100 ms modificando el valor en la función `is_vulnerable()`.
 - **Extensiones**: Para ampliar o restringir tipos de archivo, edita la tupla en `scan_directory()`.
 
-## Contribuyendo
-
-1. Haz un *fork* del repositorio.
-2. Crea una rama con tu mejora (`git checkout -b feature/nueva-funcion`).
-3. Realiza tus cambios y haz *commit*.
-4. Envía un *pull request* describiendo tu aportación.
-
-## Licencia
-
-Este proyecto está licenciado bajo [MIT License](LICENSE).
-
